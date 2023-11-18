@@ -22,6 +22,6 @@ Currently there is one project 'java-flyway-migration-uuid-updater' that contain
 </p>
 
 <p>
-  <a href="https://github.com/demarinov/">DM</a>
+  :fire: <a href="https://github.com/demarinov/">DM</a>
 </p>
 
