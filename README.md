@@ -6,7 +6,7 @@
 
 ## Description
 The purpose of this repo is to demonstrate various ways of using Java for DB migrations. <br/>
-Currently there is one project 'java-flyway-migration-uuid-updater' that contains 3 java migrations - create students table, insert records into students table, update students uuid column.
+Currently there is one project [java-flyway-migration-uuid-updater](https://github.com/demarinov/db-migrations/tree/main/java-flyway-migration-uuid-updater) that contains 3 java migrations - create students table, insert records into students table, update students uuid column.
 
 ## References
 
