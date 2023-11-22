@@ -21,6 +21,8 @@ Currently there is one project [java-flyway-migration-uuid-updater](https://gith
 
 </p>
 
+[>>Next: Spring Apps](https://github.com/demarinov/spring)
+
 <p>
   :fire: <a href="https://github.com/demarinov/">DM</a>
 </p>
