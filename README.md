@@ -1,4 +1,4 @@
-# $$\color{lightblue}{Java\ for\ DB\ migrations}$$
+# $$\color{lightblue}{DB\ migrations\ with\ Java}$$
 
 <p align="center">
   <img src="https://user.oc-static.com/upload/2019/09/22/15691720821337_Java%202-01.png" width="50%" height="50%"/>
